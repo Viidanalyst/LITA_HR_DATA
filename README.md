@@ -37,7 +37,7 @@ With the tool used for this analysis some Data analysis expression (DAX) were ca
 - **Attrition Count:** In order to get the total number of attrition in the company, a Conditional Column was cretaed where "1" was assigned to employees whose attrition are "yes" and "0" was awarded to employees whose attribution are "No".
 - **Attrition Rate:** This was calculated by dividing the sum of attrition count by the total sum of employee all multiplied by 100.
 - **Average Age:** This was calculated by using the Average function in Power BI's quick measure.
-- **Current Employee Rate:** This was calculated by dividing the sum of current employee by the total sum of employee all multiplird by 100.
+- **Current Employee Rate:** This was calculated by dividing the sum of current employee by the total sum of employee all multiplied by 100.
 ---
 ## Data Visualization For Attrition
 To explain the pattern of Attrition in the company, i created a dashboard that visualizes attrition trends in the company.

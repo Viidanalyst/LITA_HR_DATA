@@ -55,3 +55,8 @@ The total attrition count is 237 with the total employees being 1470.
 1.  The age group 25-34 have the highest count of attrition with a total of 112, which explains that the young employees left the company, this may be because of better job offers or the "Japa Syndrome".
 2.  Most of the attrition employees are Single with a count of 120, with the Male population having the highest attrition count with a total of 150 (63%).
 3.  The Research and Development (R&D) department have the highest rate of attrition with 53%, this department is dominated by employees who have educational background in Life Sciences and the Medical field. There are reports of Jobs abroad who want people in the medical line, this also explains the reason why employees left the company for greener pastures abroad since most of the attrition employees are in the said line.
+---
+### Dashboard for applied slicer
+To know how long the attrition employees worked before leaving the company, i applied a slicer. The slicer explained that most of the attrition employees left the company just after 1 year of working. People who plan to leave the country tend to look for where to work while they process their travelling documents. Seeing these insights just makes me come to the conclusion that most of the attrition employees had to leave the country (japa Syndrome).
+
+![LITA Week2 28-Oct-24 7_47_33 PM](https://github.com/user-attachments/assets/75faf092-28ba-4095-8c4b-156bc5c19670)

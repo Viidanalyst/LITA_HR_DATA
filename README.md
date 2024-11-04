@@ -45,7 +45,8 @@ With the tool used for this analysis some Data analysis expression (DAX) were ca
 ## Data Visualization For Attrition
 To explain the pattern of Attrition in the company, i created a dashboard that visualizes attrition trends in the company.
 
-![LITA Week2 28-Oct-24 7_41_17 PM](https://github.com/user-attachments/assets/d150adcd-7827-4c07-a09d-acfad96e0299)
+![LITA Week2 28-Oct-24 7_41_17 PM](https://github.com/user-attachments/assets/0f54806f-ece0-4983-a52b-85f0095cee6c)
+
 
 ---
 ### Insights
@@ -59,4 +60,9 @@ The total attrition count is 237 with the total employees being 1470.
 ### Dashboard for applied slicer
 To know how long the attrition employees worked before leaving the company, i applied a slicer. The slicer explained that most of the attrition employees left the company just after 1 year of working. People who plan to leave the country tend to look for where to work while they process their travelling documents. Seeing these insights just makes me come to the conclusion that most of the attrition employees had to leave the country (japa Syndrome).
 
-![LITA Week2 28-Oct-24 7_47_33 PM](https://github.com/user-attachments/assets/75faf092-28ba-4095-8c4b-156bc5c19670)
+![LITA Week2 28-Oct-24 7_47_33 PM](https://github.com/user-attachments/assets/811cb7ef-1b40-4dd9-a2d8-4f9075bee8d3)
+---
+### DATA VISUALIZATION FOR CURRENT EMPLOYEES
+To explain the actual employees in the company, i created a dashboard that visualizes current employees trends in the company.
+
+![LITA Week2 28-Oct-24 7_49_01 PM](https://github.com/user-attachments/assets/4561eb79-91bf-4f87-8137-7b3e29a472f5)

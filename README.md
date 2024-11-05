@@ -3,7 +3,8 @@
 ## **PROJECT TITLE: HUMAN RESOURCE(HR)_DATA**
 ---
 ## PROJECT OVERVIEW
-- This project covers a Human Resource (HR) Data of a company that has been in existence for Forty (40) years. This data has both quantitative and qualitative variables, and insights are drawn from this data to know the trends of Attrition and Current employees in the company. The insights drawn will also proffer accurate decision making to know how to curb the rate of attrition in the company.
+This project covers a Human Resource (HR) Data of a company that has been in existence for Forty (40) years. This data has both quantitative and qualitative variables, and insights are drawn from this data to know the trends of Attrition and Current employees in the company. The insights drawn will also proffer accurate decision making to know how to curb the rate of attrition in the company.
+
 ---
 ##  DATA SOURCE
 -  This dataset is an HR Data which i gained access through The Incubator Hub 
@@ -33,7 +34,7 @@ This segment explains the variables that are included in the analysis.
 ## TOOLS USED
 The tool used in this analysis is;
 
--  Microsoft Power BI [(https://www.microsoft.com/en-us/download)] (Download here)
+-  Microsoft Power BI [Download here](https://www.microsoft.com/en-us/download)
 ----
 ## DATA ANALYSIS EXPRESSIONS (DAX) FUNCTIONS
 With the tool used for this analysis some Data analysis expression (DAX) were carried out. The following DAX functions were carried out;
@@ -47,8 +48,6 @@ To explain the pattern of Attrition in the company, i created a dashboard that v
 
 ![LITA Week2 28-Oct-24 7_41_17 PM](https://github.com/user-attachments/assets/0f54806f-ece0-4983-a52b-85f0095cee6c)
 
-
----
 ### Insights
 The dashboard above shows the visual representation of attrition trends in the company. Some insights drawn from it are;
 
@@ -58,11 +57,16 @@ The total attrition count is 237 with the total employees being 1470.
 3.  The Research and Development (R&D) department have the highest rate of attrition with 53%, this department is dominated by employees who have educational background in Life Sciences and the Medical field. There are reports of Jobs abroad who want people in the medical line, this also explains the reason why employees left the company for greener pastures abroad since most of the attrition employees are in the said line.
 ---
 ### Dashboard for applied slicer
-To know how long the attrition employees worked before leaving the company, i applied a slicer. The slicer explained that most of the attrition employees left the company just after 1 year of working. People who plan to leave the country tend to look for where to work while they process their travelling documents. Seeing these insights just makes me come to the conclusion that most of the attrition employees had to leave the country (japa Syndrome).
 
 ![LITA Week2 28-Oct-24 7_47_33 PM](https://github.com/user-attachments/assets/811cb7ef-1b40-4dd9-a2d8-4f9075bee8d3)
+
+#### Insights
+To know how long the attrition employees worked before leaving the company, i applied a slicer. The slicer explained that most of the attrition employees left the company just after 1 year of working. People who plan to leave the country tend to look for where to work while they process their travelling documents. Seeing these insights just makes me come to the conclusion that most of the attrition employees had to leave the country (japa Syndrome).
+
 ---
-### DATA VISUALIZATION FOR CURRENT EMPLOYEES
+## DATA VISUALIZATION FOR CURRENT EMPLOYEES
 To explain the actual employees in the company, i created a dashboard that visualizes current employees trends in the company.
 
 ![LITA Week2 28-Oct-24 7_49_01 PM](https://github.com/user-attachments/assets/4561eb79-91bf-4f87-8137-7b3e29a472f5)
+
+####  Insights

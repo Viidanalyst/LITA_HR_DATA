@@ -104,4 +104,4 @@ I applied a slicer to show the Educational field of employees. I wanted to see t
 
 ---
 ## GENERAL CONCLUSIONS ON ATTRITION AND CURRENT EMPLOYEES
-
+In conclusion, in as much as the rate of attrition is low compared to that of current employee that does not mean more employees will still not leave. The company can do well to hire more hands to cover up for attrition so when in time more employees leave the company, it does not affect the company in extreme.(except most of the attrition employees were sacked). Its more like they leave you replace.
